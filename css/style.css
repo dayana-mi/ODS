@@ -1,0 +1,16 @@
+.ods-list span {
+    font-weight: bold;
+}
+
+iframe {
+    margin: 5px;
+}
+
+svg {
+    margin: 0 2px 0 2px;
+}
+
+ul a:hover {
+    box-shadow: inset 252px 0 0 0 #54b3d6;
+  color: white;
+}
